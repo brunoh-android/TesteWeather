@@ -49,8 +49,8 @@
                     android:id="@+id/img_search_city"
                     android:layout_width="50dp"
                     android:layout_height="match_parent"
-                    android:background="@color/white"
-                    android:padding="10dp"
+                    android:background="#55FFFFFF"
+                    android:padding="08dp"
                     android:src="@drawable/ic_procurar" />
 
             </LinearLayout>
@@ -75,24 +75,21 @@
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1"
                         android:orientation="vertical">
 
                         <TextView
                             android:id="@+id/tv_city_code"
-                            android:layout_width="193dp"
+                            android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_weight="1"
-                            android:text="@string/nomeDaCidade"
-                            android:textSize="23sp" />
+                            android:text="@string/Pais"
+                            android:textSize="15sp" />
 
                         <TextView
                             android:id="@+id/tv_city_name"
-                            android:layout_width="195dp"
+                            android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:layout_weight="1"
-                            android:text="@string/pais"
-                            android:textSize="17sp" />
+                            android:text="@string/Cidade"
+                            android:textSize="35sp" />
 
                         <TextView
                             android:id="@+id/tv_degree"
