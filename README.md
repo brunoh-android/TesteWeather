@@ -1,12 +1,11 @@
 # TesteWeather
 
-App produzido em Kotlin
-Modelo MVVM
-Retrofit
-RXJava
-Glide
-...
+App produzido em Kotlin, busca a temperatura da cidade selecionada <br />
+<br />
+● Modelo MVVM <br />
+● Retrofit <br />
+● RXJava <br />
+● Glide <br />
 
-Api utilizada: https://openweathermap.org/
+● Api utilizada: https://openweathermap.org/
 
-Colocoque o nome da cidade desejada e clique na lupa para buscar a temperatura da cidade selecionada
